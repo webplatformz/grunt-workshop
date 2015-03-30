@@ -1,0 +1,20 @@
+{
+  "name": "grunt-workshop",
+  "version": "1.0.0",
+  "description": "workshop example app for grunt",
+  "repository": {
+    "type": "git",
+    "url": "https://joachimprinzbach@github.com/webplatformz/grunt-workshop.git"
+  },
+  "author": "joachimprinzbach",
+  "homepage": "https://github.com/webplatformz/grunt-workshop",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "jasmine": "^2.2.1",
+    "jasmine-node": "^1.14.5",
+    "mocha": "^2.2.1"
+  }
+}
