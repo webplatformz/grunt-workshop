@@ -7,6 +7,7 @@
 - Restart server on file changes, reload browser page
 - Execute tests, jslint on js file changes
 - create production build: minify, uglify js and css files. copy to own directory (/dist)
+- clean production directory before building. File Structure: dist/index.html, dist/
 
 dist directory struture:
 ```javascript
