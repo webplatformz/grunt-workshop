@@ -8,6 +8,16 @@
 - Execute tests, jslint on js file changes
 - create production build: minify, uglify js and css files. copy to own directory (/dist)
 
+dist directory struture:
+```javascript
+    dist/
+      index.html
+      style/
+          all.min.css
+      js/
+          all.min.js
+```
+
 ## Installation
 You only need to have node.js and bower installed.
 
