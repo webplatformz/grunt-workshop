@@ -1,5 +1,13 @@
 # grunt-workshop
 
+## Requirements
+
+- Start node server 
+- Execute tests
+- Restart server on file changes, reload browser page
+- Execute tests, jslint on js file changes
+- create production build: minify, uglify js and css files. copy to own directory (/dist)
+
 ## Installation
 You only need to have node.js and bower installed.
 
